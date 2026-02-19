@@ -1,5 +1,5 @@
 Hi, I'm Chris 👋
-I'm a tech recruiter specialising in connecting exceptional talent with high-growth startups. Whether you're a Software Engineer, Data Scientist, AI specialist, Product Manager, or Designer — I'd love to connect.
+I'm a tech recruiter specialising in connecting exceptional talent with high-growth startups. Whether you're a Software Engineer, Data Scientist, AI specialist, Product Manager, or Designer - I'd love to connect.
 
 🚀 What I Do
 I help tech startups build world-class teams across:
