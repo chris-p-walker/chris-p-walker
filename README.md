@@ -5,7 +5,7 @@ I'm a tech recruiter specialising in connecting exceptional talent with high-gro
 I help tech startups build world-class teams across:
 
 Software Engineering - Frontend, Backend, Full Stack, Mobile, DevOps
-Data & AI — Data Scientists, ML Engineers, Data Analysts, AI Researchers
+Data & AI - Data Scientists, ML Engineers, Data Analysts, AI Researchers
 Product & Design - Product Managers, UX/UI Designers, Product Designers
 
 
