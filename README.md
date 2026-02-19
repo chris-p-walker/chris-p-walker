@@ -18,7 +18,7 @@ Whether you're actively job hunting, passively open to opportunities, or just wa
 
 📚 Resources for Developers
 I've put together a resource hub to help developers at every stage of their job search. Check it out below 👇
-➡️ Tech Recruiting Resource Hub (recruiting-resources-README.md) 
+➡️ Tech Recruiting Resource Hub (https://github.com/chris-p-walker/recruiting-resources-README.md/tree/main)) 
 
 💡 A Note From Me
-I believe recruiting should be human, honest, and helpful. I won't waste your time with irrelevant roles, and I'll always give you honest feedback. If I reach out, it's because I genuinely think there's a fit.
+I work exclusively with top-tier startups that are scaling fast and building things that matter. I'm not here to fill pipelines — I'm here to make the right introductions. If you're a high-calibre engineer who holds yourself to a high standard and wants to work alongside people who do the same, I'd like to know you. I only reach out when there's a genuine, well-matched opportunity on the table.
