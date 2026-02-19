@@ -10,7 +10,7 @@ Product & Design - Product Managers, UX/UI Designers, Product Designers
 
 
 🤝 Let's Connect
-Whether you're actively job hunting, passively open to opportunities, or just want to build a connection for the future — my door is always open.
+Whether you're actively job hunting, passively open to opportunities, or just want to build a connection for the future - my door is always open.
 
 💼 LinkedIn (https://www.linkedin.com/in/chris-walker-mrec-certrp/)
 📧 Reach out via LinkedIn or GitHub
