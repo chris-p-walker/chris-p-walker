@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @chris-p-walker
-- 👀 I’m interested in Cybersecurity, and AI
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on projects requiring additional hands, I lead operations for a staff augmentation firm offering additional resources from numerous regions worldwide. We help Technical leaders scale teams quickly, and efficiently and for as long as needed.
-- 📫 How to reach me [...](https://www.linkedin.com/in/christopher-phillips-staffbank/), https://staffbank.net/contact-us/ 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Have helped organisations ranging from startups through to enterprise to overcome skills shortages within their projects.
+Hi, I'm Chris 👋
+I'm a tech recruiter specialising in connecting exceptional talent with high-growth startups. Whether you're a Software Engineer, Data Scientist, AI specialist, Product Manager, or Designer — I'd love to connect.
 
-<!---
-chris-p-walker/chris-p-walker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 What I Do
+I help tech startups build world-class teams across:
+
+Software Engineering — Frontend, Backend, Full Stack, Mobile, DevOps
+Data & AI — Data Scientists, ML Engineers, Data Analysts, AI Researchers
+Product & Design — Product Managers, UX/UI Designers, Product Designers
+
+
+🤝 Let's Connect
+Whether you're actively job hunting, passively open to opportunities, or just want to build a connection for the future — my door is always open.
+
+💼 LinkedIn (https://www.linkedin.com/in/chris-walker-mrec-certrp/)
+📧 Reach out via LinkedIn or GitHub
+
+
+📚 Resources for Developers
+I've put together a resource hub to help developers at every stage of their job search. Check it out below 👇
+➡️ Tech Recruiting Resource Hub (recruiting-resources-README.md) 
+
+💡 A Note From Me
+I believe recruiting should be human, honest, and helpful. I won't waste your time with irrelevant roles, and I'll always give you honest feedback. If I reach out, it's because I genuinely think there's a fit.
